@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_note_item_img_desc">This is for Icon of the note item</string>
+    <string name="list_note_item_title">Note Title I Putu Mahendra Adi Wardana Suka Menabung</string>
+    <string name="list_note_item_body">Saya adalah seorang web programmer yang mencoba hal yang baru dan akan menerima resikonya</string>
+
+    <!-- Fragment Title Strings -->
+    <string name="view_fragment_title">View Note</string>
+    <string name="edit_fragment_title">Edit Note</string>
+
+    <!-- Main List Long Click Contex Menu -->
+    <string name="edit_menu">Edit</string>
+
+    <!-- Fragment Widget Settings -->
+    <string name="save_note_button">Save Note</string>
+
+    <!-- Fragment View Note -->
+    <string name="view_title_note">View Note Title</string>
+    <string name="view_message_note">View Note Message</string>
+    <string name="view_image_btn_description">This is image button for view method</string>
+
+    <!-- Fragment Edit Note -->
+    <string name="edit_title_note">Edit Note Title</string>
+    <string name="edit_message_note">Edit Note Message</string>
+    <string name="edit_image_btn_description">This is image button for edit method</string>
+
+
+</resources>
